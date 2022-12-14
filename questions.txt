@@ -1,2 +1,0 @@
-size of data set ?
-different classifiers?
